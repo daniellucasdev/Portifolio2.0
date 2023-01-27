@@ -2,11 +2,11 @@
 
 :root {
     --color-body: #b6cbce;
-    --color-heading: #eef3db;
+    --color-heading: #c2c2c2;
     --color-base: #434343;
     --color-base2: #292929;
-    --color-brand: #d9cb03;
-    --color-brand2: #d9d500;
+    --color-brand: #d8870f;
+    --color-brand2: #fc3b00;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
 }
