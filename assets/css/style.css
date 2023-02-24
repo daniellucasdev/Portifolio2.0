@@ -172,6 +172,11 @@ img {
   transform: scale(1.1);
 }
 
+.card-custom-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
 /* CONTACT */
 #contact .form-control {
   background-color: var(--color-base);
